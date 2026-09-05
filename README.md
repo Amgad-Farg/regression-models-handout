@@ -253,5 +253,6 @@ Run `python scripts/get_data.py` to regenerate `data/ames.csv` from source.
 
 The notebook, code and documentation here are free to use, modify and teach from.
 The dataset is public and belongs to its original authors, cited above.
-#   r e g r e s s i o n - m o d e l s - h a n d o u t  
+#   r e g r e s s i o n - m o d e l s - h a n d o u t 
+#Amgad Farg 
  
